@@ -30,11 +30,3 @@ Too low! Try again.
 Guess a number between 1 and 100: 40
 Congratulations! You guessed it in 3 attempts.
 ```
-
-## Future Enhancements
-- Add difficulty levels (easy, medium, hard).
-- Limit the number of attempts.
-- Create a GUI version using Tkinter or PyQt.
-
-## License
-This project is open-source and free to use.
